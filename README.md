@@ -18,7 +18,7 @@ BIO
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pranjal-bhardwaj-a85263188/)
 - 😄 Pronouns: Machine Learning engineer and Data analyst.
 
-![](https://github-readme-stats.vercel.app/api?username=Bhard27&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=gunjivam&show_icons=true)
 
 
 Here are some ideas to get you started:
