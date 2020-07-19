@@ -30,6 +30,4 @@ Well! I also do learn new visualization tools and technologies in the market. I 
 
 ![](https://github-readme-stats.vercel.app/api?username=gunjivam&show_icons=true)
 
-### PLEASE SCROLL DOWN TO LOOK AT MY PROJECTS
-
--->
+### THANKS FOR READING THIS AND KNOWING A LITTLE ABOUT ME. PLEASE HAVE A LOOK AT MY PROJECTS
