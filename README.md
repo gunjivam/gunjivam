@@ -20,7 +20,7 @@ Well! I also do learn new visualization tools wnd technologies in the market. I 
 - 💻 Skilled in Data Science and Data Engineering. Mathematics, Python Programming
 - 👯 I’m looking to collaborate on anything related to Development, ML, AI and Data Science
 - 💬 Ask me about Mathematics. I can help with anything that is related to ML, AI, Data Science and Python
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vamsi-avinash-gunji/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vamsi-avinash-gunji/) , [Facebook](https://www.facebook.com/vamsiavinash.gunji)
 - 😄 Pronouns: Developer, Data Engineer, Data Scientist, Machine Learning Engineer
 - ⚡ Fun fact: I recently got a Golden Retriever. I love to get more pets!
 
