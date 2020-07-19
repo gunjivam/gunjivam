@@ -11,13 +11,13 @@
 
 <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Coder GIF" width="500" height="400">
 
-Well! I also do learn new visualization tools and technologies in the market. I also write article that relates trouble and situations I faced while trying to become a Developer. 
-I focus more on writing about self-motivation, positivity, self-confidence. One of my favorite hobbies is to Code, write, Solve Problems, create new problems.
+This was funny. I just not only code but also do lots of problem solving. 
+Well! I also do learn new visualization tools and technologies in the market. I also write article that relates trouble and situations I faced while trying to become a Developer. I focus more on writing about self-motivation, positivity, self-confidence. One of my favorite hobbies is to Code, write, Solve Problems, create new problems.
 
 ### Brief Description on my current status👋
 - 🔭 I’m currently working on Data Science, Machine Learning & AI Projects
 - 🌱 I’m currently learning Spark, Hadoop, AWS
-- 💻 Skilled in Data Science and Data Engineering. Effective in creating robust visualizations
+- 💻 Skilled in Data Science and Data Engineering. Mathematics, Python Programming
 - 👯 I’m looking to collaborate on anything related to Development, ML, AI and Data Science
 - 💬 Ask me about Mathematics. I can help with anything that is related to ML, AI, Data Science and Python
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vamsi-avinash-gunji/)
