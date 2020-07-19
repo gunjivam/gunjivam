@@ -17,12 +17,16 @@ I focus more on writing about self-motivation, positivity, self-confidence. One 
 ### Brief Description on my current status👋
 - 🔭 I’m currently working on Data Science, Machine Learning & AI Projects
 - 🌱 I’m currently learning Spark, Hadoop, AWS
-- 👨🏼‍💻 Skilled in Data Science and Data Engineering. Effective in creating robust visualizations
+- 💻 Skilled in Data Science and Data Engineering. Effective in creating robust visualizations
 - 👯 I’m looking to collaborate on anything related to Development, ML, AI and Data Science
 - 💬 Ask me about Mathematics. I can help with anything that is related to ML, AI, Data Science and Python
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vamsi-avinash-gunji/)
 - 😄 Pronouns: Developer, Data Engineer, Data Scientist, Machine Learning Engineer
 - ⚡ Fun fact: I recently got a Golden Retriever. I love to get more pets!
+
+### Education Background🏫
+- 🎓 I recently graduated from Seton Hall University in May 2020 with a Double Major in Computer Science & Mathematics.
+- 👏 I received 'Cum Laude' Graduation Honors for having a GPA of 3.4 and above. 
 
 ![](https://github-readme-stats.vercel.app/api?username=gunjivam&show_icons=true)
 
