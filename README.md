@@ -9,12 +9,12 @@
 
 # Here is What I Do <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-This is What I do everyday! 
 <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Coder GIF" width="500" height="400">
 
-Well! I also do learn new visualization tools and technologies in the market. Some of the new 
+Well! I also do learn new visualization tools and technologies in the market. I also write article that relates trouble and situations I faced while trying to become a Developer. 
+I focus more on writing about self-motivation, positivity, self-confidence. One of my favorite hobbies is to Code, write, Solve Problems, create new problems.
 
-### Brief Description👋
+### Brief Description on my current status👋
 - 🔭 I’m currently working on Data Science, Machine Learning & AI Projects
 - 🌱 I’m currently learning Spark, Hadoop, AWS
 - 👨🏼‍💻 Skilled in Data Science and Data Engineering. Effective in creating robust visualizations
