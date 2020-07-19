@@ -8,29 +8,22 @@
 <p  align="center"><img height="500" src = "https://github.com/gunjivam/gunjivam/blob/master/me.gif"></p>
 
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-Introduction
 
+This is What I do everyday! 
 <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Coder GIF" width="500" height="400">
 
+Well! I also do learn new visualization tools and technologies in the market. Some of the new 
+
 ### Summary👋
-- 🔭 I’m currently working on ML, DL, DS, and Blockchain projects.
-- 👨🏼‍💻 Skilled in Data visualization and deriving conclusions.
-- 👯 I’m looking to collaborate on anything related to ML and Blockchain projects.
-- 💬 Open to questions about Data Analysis and projects I've worked on.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pranjal-bhardwaj-a85263188/)
-- 😄 Pronouns: Machine Learning engineer and Data analyst.
+- 🔭 I’m currently working on Data Science, Machine Learning & AI Projects
+- 🌱 I’m currently learning Spark, Hadoop, AWS
+- 👨🏼‍💻 Skilled in Data Science and Data Engineering. Effective in creating robust visualizations
+- 👯 I’m looking to collaborate on anything related to Development, ML, AI and Data Science
+- 💬 Ask me about Mathematics. I can help with anything that is related to ML, AI, Data Science and Python
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vamsi-avinash-gunji/)
+- 😄 Pronouns: Developer, Data Engineer, Data Scientist, Machine Learning Engineer
+- ⚡ Fun fact: I recently got a Golden Retriever. I love to get more pets!
 
 ![](https://github-readme-stats.vercel.app/api?username=gunjivam&show_icons=true)
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vamsi-avinash-gunji/)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
