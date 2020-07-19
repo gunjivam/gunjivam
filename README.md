@@ -22,7 +22,7 @@ Well! I also do learn new visualization tools wnd technologies in the market. I 
 - 💬 Ask me about Mathematics. I can help with anything that is related to ML, AI, Data Science and Python
 - 📫 How to reach me:  [Gmail](mailto:vamshiavinash3@gmail.com) , [Linkedin](https://www.linkedin.com/in/vamsi-avinash-gunji/) , [Facebook](https://www.facebook.com/vamsiavinash.gunji) , [Twitter](https://twitter.com/Vamsi_Avinash_G)
 - 😄 Pronouns: Developer, Data Engineer, Data Scientist, Machine Learning Engineer
-- ⚡ Fun fact: I recently got a Golden Retriever. I love to get more pets!
+- ⚡ Fun fact: I love video making! I worked as Freelance videographer. I bought a puppy and it's adorable
 
 ### Education Background🏫
 - 🎓 I recently graduated from Seton Hall University in May 2020 with a Double Major in Computer Science & Mathematics.
