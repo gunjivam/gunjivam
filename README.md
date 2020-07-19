@@ -26,4 +26,6 @@ I focus more on writing about self-motivation, positivity, self-confidence. One 
 
 ![](https://github-readme-stats.vercel.app/api?username=gunjivam&show_icons=true)
 
+### PLEASE SCROLL DOWN TO LOOK AT MY PROJECTS
+
 -->
