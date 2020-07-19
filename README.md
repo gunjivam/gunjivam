@@ -7,7 +7,7 @@
 
 <p  align="center"><img height="500" src = "https://github.com/gunjivam/gunjivam/blob/master/me.gif"></p>
 
-# Here is What I Do <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="50">
+# Here is What I Do <img src="https://media.giphy.com/media/4FQMuOKR6zQRO/giphy.gif" width="150">
 
 <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Coder GIF" width="500" height="400">
 
