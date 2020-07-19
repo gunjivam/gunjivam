@@ -9,7 +9,7 @@
 
 # Here is <img src="https://media.giphy.com/media/4FQMuOKR6zQRO/giphy.gif" width="150"> What I Do
 
-<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Coder GIF" width="500" height="400">
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Coder GIF" width="400" height="400">
 
 This is basically What I do during my holidays in college until 2019. I just not only code but also do lots of problem solving. 
 Well! I also do learn new visualization tools wnd technologies in the market. I also write article that relates trouble and situations I faced while trying to become a Developer. I focus more on writing about self-motivation, positivity, self-confidence. One of my favorite hobbies is to Code, write, Solve Problems, create new problems.
