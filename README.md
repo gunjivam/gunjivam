@@ -1,4 +1,4 @@
-### Hey! Here is some brief Introduction about what I do
+### WELCOME TO MY GITHUB
 
 [![Twitter Badge](https://img.shields.io/badge/-Vamsi_Avinash_G-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Vamsi_Avinash_G)](https://twitter.com/Vamsi_Avinash_G) [![Linkedin Badge](https://img.shields.io/badge/-VamsiAvinashGunji-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vamsi-avinash-gunji/)](https://www.linkedin.com/in/vamsi-avinash-gunji/)
 [![Gmail Badge](https://img.shields.io/badge/-vamshiavinash3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vamshiavinash3@gmail.com)](mailto:vamshiavinash3@gmail.com)
@@ -7,14 +7,14 @@
 
 <p  align="center"><img height="500" src = "https://github.com/gunjivam/gunjivam/blob/master/me.gif"></p>
 
-# Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+# Here is What I Do <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 This is What I do everyday! 
 <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 Well! I also do learn new visualization tools and technologies in the market. Some of the new 
 
-### Summary👋
+### Brief Description👋
 - 🔭 I’m currently working on Data Science, Machine Learning & AI Projects
 - 🌱 I’m currently learning Spark, Hadoop, AWS
 - 👨🏼‍💻 Skilled in Data Science and Data Engineering. Effective in creating robust visualizations
