@@ -8,9 +8,9 @@
 <p  align="center"><img height="500" src = "https://github.com/gunjivam/gunjivam/blob/master/me.gif"></p>
 
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-BIO
+Introduction
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 ### Summary👋
 - 🔭 I’m currently working on ML, DL, DS, and Blockchain projects.
