@@ -11,15 +11,15 @@
 
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Coder GIF" width="700" height="600">
 
-This is basically What I do during my holidays in college until 2019. I just not only code but also do lots of problem solving. 
-Well! I also do learn new visualization tools wnd technologies in the market. I also write article that relates trouble and situations I faced while trying to become a Developer. I focus more on writing about self-motivation, positivity, self-confidence. One of my favorite hobbies is to Code, write, Solve Problems, create new problems.
+This is basically What I do everyday at work. I just not only code but also do lots of problem solving. 
+Well! I also do learn new visualization tools wnd technologies in the market. I also write article that relates trouble and situations I faced while trying to become a Software Developer. I focus more on writing about self-motivation, positivity, self-confidence. One of my favorite hobbies is to Code, write, Solve Problems, create new problems.
 
 ### Brief Description on my current status👋
-- 🔭 I’m currently working on Data Science, Machine Learning & AI Projects
-- 🌱 I’m currently learning Spark, Hadoop, AWS
-- 💻 Skilled in Data Science and Data Engineering. Mathematics, Python Programming
+- 🔭 I’m currently working as a Software Developer at Clarivate in a team related to Data Science, Machine Learning
+- 🌱 I’m currently learning AWS, Machine Learning, Deep Learning
+- 💻 Skilled in Programming, Data Science, Data Engineering and Mathematics
 - 👯 I’m looking to collaborate on anything related to Development, ML, AI and Data Science
-- 💬 Ask me about Mathematics. I can help with anything that is related to ML, AI, Data Science and Python
+- 💬 Ask me about Mathematics & Problem Solving. I can help with anything that is related to Software Engineering, ML, AI, Data Science and Python
 - 📫 How to reach me:  [Gmail](mailto:vamshiavinash3@gmail.com) , [Linkedin](https://www.linkedin.com/in/vamsi-avinash-gunji/) , [Facebook](https://www.facebook.com/vamsiavinash.gunji) , [Twitter](https://twitter.com/Vamsi_Avinash_G)
 - 😄 Pronouns: Developer, Data Engineer, Data Scientist, Machine Learning Engineer
 - ⚡ Fun fact: I love video making! I worked as Freelance videographer. I bought a puppy and it's adorable
