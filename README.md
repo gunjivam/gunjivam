@@ -28,8 +28,8 @@ Well! I also do learn new visualization tools wnd technologies in the market. I 
 - 🎓 I recently graduated from Seton Hall University in May 2020 with a Double Major in Computer Science & Mathematics.
 - 👏 I received 'Cum Laude' Graduation Honors for having a GPA of 3.4 and above. 
 
-Articles 💬
-
+### Articles💬
+Have a look at my new article: 
 https://www.linkedin.com/pulse/do-you-know-i-suffered-from-imposter-syndrome-what-taught-gunji/
 
 ![](https://github-readme-stats.vercel.app/api?username=gunjivam&show_icons=true)
