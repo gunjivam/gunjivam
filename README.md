@@ -15,8 +15,8 @@ This is basically What I do everyday at work. I just not only code but also do l
 Well! I also do learn new visualization tools wnd technologies in the market. I also write article that relates trouble and situations I faced while trying to become a Software Developer. I focus more on writing about self-motivation, positivity, self-confidence. One of my favorite hobbies is to Code, write, Solve Problems, create new problems.
 
 ### Brief Description on my current status👋
-- 🔭 I’m currently working as a Software Developer at Clarivate in a team related to Data Science, Machine Learning
-- 🌱 I’m currently learning AWS, Machine Learning, Deep Learning
+- 🔭 I’m currently working as a Software Development Engineer II at Clarivate in a team related to Data Science, Machine Learning
+- 🌱 I’m currently expert in DevOps, Kubernetes, Docker, Terraform, Artifactory, AWS, Machine Learning, Deep Learning
 - 💻 Skilled in Programming, Data Science, Data Engineering and Mathematics
 - 👯 I’m looking to collaborate on anything related to Development, ML, AI and Data Science
 - 💬 Ask me about Mathematics & Problem Solving. I can help with anything that is related to Software Engineering, ML, AI, Data Science and Python
