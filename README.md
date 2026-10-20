@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/terminal.svg" alt="Animated terminal: whoami → Vamsi Avinash Gunji, Senior DevOps Engineer / SRE at Bank of America" width="720">
+  <img src="./assets/terminal.svg" alt="Animated terminal: whoami → Vamsi Avinash Gunji, Senior DevOps Engineer / SRE at Bank of America; clouds: AWS, Azure, GCP, OpenShift; 10 certifications" width="760">
 </p>
 
 <p align="center">
@@ -10,19 +10,16 @@
   <a href="https://www.facebook.com/vamsiavinash.gunji/"><img src="https://img.shields.io/badge/Facebook-Vamsi_Avinash-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gunjivam&label=profile%20views&color=238636&style=flat-square" alt="Profile views">
-</p>
-
 ---
 
 ### 👋 Hey, I'm Vamsi
 
-I got into DevOps by asking one question: **what happens after the code is written?** Seven-plus years later I run OpenShift and Kubernetes platforms in financial services, write Terraform that other teams build on, and automate anything I've had to do twice.
+I got into DevOps by asking one question: **what happens after the code is written?** Seven-plus years later I build and run cloud platforms across **AWS, Azure and GCP** for banks, trading desks, retail and insurance — Terraform that other teams build on, release pipelines that ship without downtime, and automation for anything I've had to do twice.
 
-- 🏦 **Now:** Senior DevOps Engineer / SRE at **Bank of America** — 25+ microservices on OpenShift/Kubernetes, blue-green and A/B releases with zero downtime
-- 🛠️ **Daily drivers:** Kubernetes · OpenShift · Terraform · Ansible · Jenkins · Python · Splunk · Dynatrace
-- 🤝 **Open to collaborating on:** platform engineering, Kubernetes operators, IaC modules, release automation
+- 🏦 **Now:** Senior DevOps Engineer / SRE at **Bank of America** — OpenShift platform, Terraform + Ansible automation, blue-green and A/B releases, Splunk & Dynatrace observability
+- ☁️ **Clouds I've run in production:** AWS (EKS, ROSA, EC2, CodePipeline) · Azure (AKS, Azure DevOps, a cost-cutting migration) · GCP (GKE, Rundeck automation)
+- 🔐 **Also in the toolbelt:** Vault & certificate automation, Jenkins / GitHub Actions / Argo CD / Spinnaker, Artifactory, Splunk, Datadog, Prometheus
+- 🤝 **Open to collaborating on:** platform engineering, multi-cloud IaC, release automation, observability
 - 🎥 **Off the clock:** former freelance videographer, graph-theory nerd, and owner of an adorable puppy
 
 <p align="center">
@@ -135,14 +132,19 @@ I got into DevOps by asking one question: **what happens after the code is writt
 
 ### 🏅 Certifications
 
-<p>
-  <img src="https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="CKA">
-  <img src="https://img.shields.io/badge/CKAD-Application_Developer-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="CKAD">
-  <img src="https://img.shields.io/badge/CKS-Security_Specialist-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="CKS">
-  <img src="https://img.shields.io/badge/AWS-DevOps_Engineer_Professional-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS DevOps Engineer Professional">
-  <img src="https://img.shields.io/badge/Azure-DevOps_Engineer_Expert-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure DevOps Engineer Expert">
-  <img src="https://img.shields.io/badge/Azure-Administrator_Associate-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Administrator Associate">
-  <img src="https://img.shields.io/badge/HashiCorp-Terraform_Associate-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform Associate">
+<p align="center">
+  <a href="https://www.linkedin.com/in/vamsi-avinash-gunji/details/certifications/">
+    <img src="./assets/certs.svg" width="100%" alt="10 certifications — AWS: DevOps Engineer Professional, Data Analytics Specialty. Microsoft: DevOps Engineer Expert, Azure Administrator Associate, Azure Data Scientist Associate. CNCF: CKA, CKAD, CKS, KCNA. HashiCorp: Terraform Associate.">
+  </a>
+  <br><sub>Click to verify credentials on LinkedIn</sub>
+</p>
+
+---
+
+### ⌨️ Languages
+
+<p align="center">
+  <img src="./assets/languages.svg" width="100%" alt="Languages I write: Python, HCL, YAML, Bash, Groovy, Go, Java, SQL">
 </p>
 
 ---
@@ -162,6 +164,12 @@ Reverse-engineered it from live infrastructure: imported resources back into sta
 </details>
 
 <details>
+<summary><b>AWS or Azure?</b></summary>
+<br>
+Both, plus GCP. ROSA and EKS on AWS at Farmers, GKE with Rundeck at Home Depot, AKS everywhere from State Street to PwC to Bank of America — including a migration to Azure that cut infrastructure cost by 30%. I pick the cloud the business already trusts and keep the Terraform portable.
+</details>
+
+<details>
 <summary><b>Why does a math major do DevOps?</b></summary>
 <br>
 Infrastructure is a graph — services are nodes, dependencies are edges, and an outage is a cut set. Years of graph-theory research turned out to be decent SRE training.
@@ -175,19 +183,12 @@ I wrote about it: <a href="https://www.linkedin.com/pulse/do-you-know-i-suffered
 
 ---
 
-### 📊 Activity
+### 🤝 Let's connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gunjivam&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" height="165" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjivam&layout=compact&hide_border=true&theme=github_dark" height="165" alt="Top languages">
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gunjivam/gunjivam/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gunjivam/gunjivam/output/github-snake.svg">
-    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/gunjivam/gunjivam/output/github-snake.svg">
-  </picture>
+  <a href="https://www.linkedin.com/in/vamsi-avinash-gunji/">
+    <img src="./assets/linkedin.svg" width="100%" alt="Connect on LinkedIn — 12+ recommendations, 10 certifications, 7+ years in production, 7 companies">
+  </a>
 </p>
 
 <p align="center"><sub>Thanks for stopping by — check out the repos below, or <a href="mailto:info@vamsiavinashgunji.com">drop me a line</a>.</sub></p>
