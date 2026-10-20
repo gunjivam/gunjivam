@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/terminal.svg" alt="Animated terminal: whoami → Vamsi Avinash Gunji, Senior DevOps Engineer / SRE at Bank of America; clouds: AWS, Azure, GCP, OpenShift; 10 certifications" width="760">
+  <img src="./assets/terminal.svg" alt="Animated terminal: whoami → Vamsi Avinash Gunji (Avi) , Senior DevOps Engineer / SRE at Bank of America; clouds: AWS, Azure, GCP, OpenShift; 10 certifications" width="760">
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ---
 
-### 👋 Hey, I'm Vamsi
+### 👋 Hey, I'm Vamsi Avinash Gunji (Avi)
 
 I got into DevOps by asking one question: **what happens after the code is written?** Seven-plus years later I build and run cloud platforms across **AWS, Azure and GCP** for banks, trading desks, retail and insurance — Terraform that other teams build on, release pipelines that ship without downtime, and automation for anything I've had to do twice.
 
