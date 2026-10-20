@@ -28,14 +28,14 @@ I got into DevOps by asking one question: **what happens after the code is writt
 
 ---
 
-### 🚀 Deploy history
+### 🚀 Work history
 
 <p align="center">
   <img src="./assets/pipeline.svg" alt="Career pipeline: Seton Hall 2016 → Clarivate → Farmers → Home Depot → State Street → PwC → Bank of America → Goldman Sachs → Bank of America (now)" width="100%">
 </p>
 
 <details>
-<summary><b>📜 Release notes</b> — click a release to expand</summary>
+<summary><b>📜 Work Experience </b> — click a release to expand</summary>
 <br>
 
 <details>
