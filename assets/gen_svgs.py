@@ -8,20 +8,25 @@ FONT = "ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace"
 CW = 9.0  # approx char width at 15px monospace
 
 # ---------------------------------------------------------------- terminal
-W, H = 720, 375
+W, H = 760, 505
 lines = [
     # (kind, text, color, start_time)
     ("cmd", "whoami", None, 0.6),
     ("out", "vamsi-avinash-gunji  ·  Senior DevOps Engineer / SRE @ Bank of America", "#e6edf3", None),
-    ("cmd", "kubectl get engineer vamsi -o wide", None, None),
-    ("out", "NAME    ROLE          EXP   CLUSTERS                    STATUS", "#7d8590", None),
-    ("out", "vamsi   devops/sre    7y+   openshift,eks,aks,gke,rosa  Running", "#e6edf3", None),
+    ("cmd", "platform ls --clouds", None, None),
+    ("out", "CLOUD       WHAT I RUN THERE", "#7d8590", None),
+    ("out", "aws         EKS · EC2 · ROSA · IAM · CodePipeline · Artifactory", "#ff9e3d", None),
+    ("out", "azure       AKS · Azure DevOps · Repos · cloud migration (-30% cost)", "#4aa8ff", None),
+    ("out", "gcp         GKE · Rundeck automation · Terraform providers", "#5fd38d", None),
+    ("out", "openshift   9+ clusters · 50+ apps · blue-green + A/B releases", "#ff6b6b", None),
     ("cmd", "terraform plan -target=module.certifications", None, None),
-    ("out", '  + certs = ["CKA", "CKAD", "CKS", "AWS DevOps Engineer Pro"]', "#3fb950", None),
-    ("out", '  + certs = ["Azure DevOps Expert", "Azure Admin", "Terraform Assoc."]', "#3fb950", None),
-    ("out", "Plan: 7 to add, 0 to change, 0 to destroy.", "#e6edf3", None),
+    ("out", '  + aws   = ["DevOps Engineer Pro", "Data Analytics Specialty"]', "#3fb950", None),
+    ("out", '  + azure = ["DevOps Engineer Expert", "Administrator", "Data Scientist"]', "#3fb950", None),
+    ("out", '  + cncf  = ["CKA", "CKAD", "CKS", "KCNA"]', "#3fb950", None),
+    ("out", '  + hashi = ["Terraform Associate"]', "#3fb950", None),
+    ("out", "Plan: 10 to add, 0 to change, 0 to destroy.", "#e6edf3", None),
     ("cmd", 'curl -s vamsiavinashgunji.com/contact', None, None),
-    ("out", '{"open_to": "platform eng · k8s · IaC · automation", "say": "hi 👋"}', "#d2a8ff", None),
+    ("out", '{"open_to": "platform eng · multi-cloud · IaC · automation", "say": "hi 👋"}', "#d2a8ff", None),
 ]
 
 parts = []

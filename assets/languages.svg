@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="244" viewBox="0 0 1000 244" role="img" aria-label="Languages I write day to day">
+<style>
+.f{font-family:ui-sans-serif,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif} .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+.in{opacity:0;animation:up .5s ease-out forwards}
+@keyframes up{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+</style>
+<rect width="1000" height="244" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="24" y="40" class="f" fill="#e6edf3" font-size="18" font-weight="700">What I actually write</text>
+<text x="226" y="40" class="f" fill="#7d8590" font-size="14">· at work, not just in public repos</text>
+<g class="in" style="animation-delay:0.00s">
+<circle cx="31.0" cy="78" r="6" fill="#3572A5"/>
+<text x="46.0" y="83" class="f" fill="#e6edf3" font-size="15" font-weight="700">Python</text>
+<text x="120.0" y="83" class="f" fill="#8b949e" font-size="13">automation, tooling, ops scripts</text>
+<rect x="410.0" y="72" width="11" height="11" rx="2.5" fill="#3572A5"/>
+<rect x="425.0" y="72" width="11" height="11" rx="2.5" fill="#3572A5"/>
+<rect x="440.0" y="72" width="11" height="11" rx="2.5" fill="#3572A5"/>
+<rect x="455.0" y="72" width="11" height="11" rx="2.5" fill="#3572A5"/>
+<rect x="470.0" y="72" width="11" height="11" rx="2.5" fill="#3572A5"/>
+</g>
+<g class="in" style="animation-delay:0.07s">
+<circle cx="31.0" cy="118" r="6" fill="#844FBA"/>
+<text x="46.0" y="123" class="f" fill="#e6edf3" font-size="15" font-weight="700">HCL</text>
+<text x="120.0" y="123" class="f" fill="#8b949e" font-size="13">Terraform modules &amp; wrappers</text>
+<rect x="410.0" y="112" width="11" height="11" rx="2.5" fill="#844FBA"/>
+<rect x="425.0" y="112" width="11" height="11" rx="2.5" fill="#844FBA"/>
+<rect x="440.0" y="112" width="11" height="11" rx="2.5" fill="#844FBA"/>
+<rect x="455.0" y="112" width="11" height="11" rx="2.5" fill="#844FBA"/>
+<rect x="470.0" y="112" width="11" height="11" rx="2.5" fill="#844FBA"/>
+</g>
+<g class="in" style="animation-delay:0.14s">
+<circle cx="31.0" cy="158" r="6" fill="#cb171e"/>
+<text x="46.0" y="163" class="f" fill="#e6edf3" font-size="15" font-weight="700">YAML</text>
+<text x="120.0" y="163" class="f" fill="#8b949e" font-size="13">Kubernetes, Ansible, pipelines</text>
+<rect x="410.0" y="152" width="11" height="11" rx="2.5" fill="#cb171e"/>
+<rect x="425.0" y="152" width="11" height="11" rx="2.5" fill="#cb171e"/>
+<rect x="440.0" y="152" width="11" height="11" rx="2.5" fill="#cb171e"/>
+<rect x="455.0" y="152" width="11" height="11" rx="2.5" fill="#cb171e"/>
+<rect x="470.0" y="152" width="11" height="11" rx="2.5" fill="#cb171e"/>
+</g>
+<g class="in" style="animation-delay:0.21s">
+<circle cx="31.0" cy="198" r="6" fill="#89e051"/>
+<text x="46.0" y="203" class="f" fill="#e6edf3" font-size="15" font-weight="700">Bash</text>
+<text x="120.0" y="203" class="f" fill="#8b949e" font-size="13">glue for everything</text>
+<rect x="410.0" y="192" width="11" height="11" rx="2.5" fill="#89e051"/>
+<rect x="425.0" y="192" width="11" height="11" rx="2.5" fill="#89e051"/>
+<rect x="440.0" y="192" width="11" height="11" rx="2.5" fill="#89e051"/>
+<rect x="455.0" y="192" width="11" height="11" rx="2.5" fill="#89e051"/>
+<rect x="470.0" y="192" width="11" height="11" rx="2.5" fill="#89e051"/>
+</g>
+<g class="in" style="animation-delay:0.28s">
+<circle cx="507.0" cy="78" r="6" fill="#4298b8"/>
+<text x="522.0" y="83" class="f" fill="#e6edf3" font-size="15" font-weight="700">Groovy</text>
+<text x="596.0" y="83" class="f" fill="#8b949e" font-size="13">Jenkinsfiles &amp; shared libraries</text>
+<rect x="886.0" y="72" width="11" height="11" rx="2.5" fill="#4298b8"/>
+<rect x="901.0" y="72" width="11" height="11" rx="2.5" fill="#4298b8"/>
+<rect x="916.0" y="72" width="11" height="11" rx="2.5" fill="#4298b8"/>
+<rect x="931.0" y="72" width="11" height="11" rx="2.5" fill="#4298b8"/>
+<rect x="946.0" y="72" width="11" height="11" rx="2.5" fill="#21262d"/>
+</g>
+<g class="in" style="animation-delay:0.35s">
+<circle cx="507.0" cy="118" r="6" fill="#00ADD8"/>
+<text x="522.0" y="123" class="f" fill="#e6edf3" font-size="15" font-weight="700">Go</text>
+<text x="596.0" y="123" class="f" fill="#8b949e" font-size="13">CLIs &amp; Kubernetes tooling</text>
+<rect x="886.0" y="112" width="11" height="11" rx="2.5" fill="#00ADD8"/>
+<rect x="901.0" y="112" width="11" height="11" rx="2.5" fill="#00ADD8"/>
+<rect x="916.0" y="112" width="11" height="11" rx="2.5" fill="#00ADD8"/>
+<rect x="931.0" y="112" width="11" height="11" rx="2.5" fill="#21262d"/>
+<rect x="946.0" y="112" width="11" height="11" rx="2.5" fill="#21262d"/>
+</g>
+<g class="in" style="animation-delay:0.42s">
+<circle cx="507.0" cy="158" r="6" fill="#b07219"/>
+<text x="522.0" y="163" class="f" fill="#e6edf3" font-size="15" font-weight="700">Java</text>
+<text x="596.0" y="163" class="f" fill="#8b949e" font-size="13">where it all started</text>
+<rect x="886.0" y="152" width="11" height="11" rx="2.5" fill="#b07219"/>
+<rect x="901.0" y="152" width="11" height="11" rx="2.5" fill="#b07219"/>
+<rect x="916.0" y="152" width="11" height="11" rx="2.5" fill="#b07219"/>
+<rect x="931.0" y="152" width="11" height="11" rx="2.5" fill="#b07219"/>
+<rect x="946.0" y="152" width="11" height="11" rx="2.5" fill="#21262d"/>
+</g>
+<g class="in" style="animation-delay:0.49s">
+<circle cx="507.0" cy="198" r="6" fill="#e38c00"/>
+<text x="522.0" y="203" class="f" fill="#e6edf3" font-size="15" font-weight="700">SQL</text>
+<text x="596.0" y="203" class="f" fill="#8b949e" font-size="13">MySQL · PostgreSQL</text>
+<rect x="886.0" y="192" width="11" height="11" rx="2.5" fill="#e38c00"/>
+<rect x="901.0" y="192" width="11" height="11" rx="2.5" fill="#e38c00"/>
+<rect x="916.0" y="192" width="11" height="11" rx="2.5" fill="#e38c00"/>
+<rect x="931.0" y="192" width="11" height="11" rx="2.5" fill="#21262d"/>
+<rect x="946.0" y="192" width="11" height="11" rx="2.5" fill="#21262d"/>
+</g>
+</svg>

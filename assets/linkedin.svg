@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-label="Connect on LinkedIn: 12+ recommendations, 10 certifications, 7+ years">
+<style>
+.f{font-family:ui-sans-serif,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif} .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+.in{opacity:0;animation:up .5s ease-out forwards}
+@keyframes up{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+</style>
+<defs><linearGradient id="lg" x1="0" x2="1"><stop offset="0" stop-color="#0a2540"/><stop offset="1" stop-color="#0d1117"/></linearGradient></defs>
+<rect width="1000" height="150" rx="12" fill="url(#lg)" stroke="#1f6feb" stroke-opacity=".5"/>
+<text x="28" y="48" class="f" fill="#e6edf3" font-size="22" font-weight="800">Vamsi Avinash Gunji</text>
+<text x="28" y="74" class="f" fill="#9fb3c8" font-size="14">Senior DevOps Engineer · SRE · AWS · Azure · GCP · OpenShift · Terraform</text>
+<g class="in" style="animation-delay:0.0s"><text x="28" y="116" class="f" fill="#58a6ff" font-size="24" font-weight="800">12+</text><text x="28" y="134" class="f" fill="#8b949e" font-size="12">recommendations</text></g>
+<g class="in" style="animation-delay:0.1s"><text x="178" y="116" class="f" fill="#58a6ff" font-size="24" font-weight="800">10</text><text x="178" y="134" class="f" fill="#8b949e" font-size="12">certifications</text></g>
+<g class="in" style="animation-delay:0.2s"><text x="328" y="116" class="f" fill="#58a6ff" font-size="24" font-weight="800">7+ yrs</text><text x="328" y="134" class="f" fill="#8b949e" font-size="12">in production</text></g>
+<g class="in" style="animation-delay:0.3s"><text x="478" y="116" class="f" fill="#58a6ff" font-size="24" font-weight="800">7</text><text x="478" y="134" class="f" fill="#8b949e" font-size="12">companies</text></g>
+<rect x="770" y="53.0" width="200" height="44" rx="22" fill="#0a66c2"/>
+<text x="870.0" y="80.0" text-anchor="middle" class="f" fill="#fff" font-size="15" font-weight="700">Connect on LinkedIn →</text>
+</svg>
