@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-label="Career shown as a deployment pipeline from 2016 to now">
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+.yr{fill:#7d8590;font-size:12px} .co{fill:#e6edf3;font-size:13px;font-weight:700} .ro{fill:#8b949e;font-size:11.5px}
+.hd{fill:#e6edf3;font-size:14px;font-weight:700} .sub{fill:#7d8590;font-size:12px}
+.ring{transform-box:fill-box;transform-origin:center;animation:pulse 2s ease-out infinite}
+@keyframes pulse{0%{opacity:.8;transform:scale(1)}100%{opacity:0;transform:scale(2.2)}}
+</style>
+<rect width="1000" height="220" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="24" y="34" class="hd">career.pipeline</text>
+<text x="160" y="34" class="sub">#9 · main · triggered by curiosity in 2016</text>
+<text x="976" y="34" text-anchor="end" class="sub" opacity="0">deployed ✔<set attributeName="opacity" to="1" begin="4.95s" fill="freeze"/><animate attributeName="fill" values="#7d8590;#3fb950" begin="4.95s" dur="0.4s" fill="freeze"/></text>
+<line x1="70" y1="110" x2="925" y2="110" stroke="#30363d" stroke-width="4" stroke-linecap="round"/>
+<line x1="70" y1="110" x2="70" y2="110" stroke="#238636" stroke-width="4" stroke-linecap="round">
+<animate attributeName="x2" from="70" to="925" begin="0.3s" dur="4.40s" fill="freeze"/></line>
+<circle cx="70.0" cy="110" r="15" fill="#161b22" stroke="#30363d" stroke-width="3"><set attributeName="stroke" to="#238636" begin="0.30s" fill="freeze"/><set attributeName="fill" to="#238636" begin="0.30s" fill="freeze"/></circle>
+<text x="70.0" y="115" text-anchor="middle" fill="#fff" font-size="14" opacity="0">✓<set attributeName="opacity" to="1" begin="0.30s" fill="freeze"/></text>
+<text x="70.0" y="80" text-anchor="middle" class="yr">2016</text>
+<text x="70.0" y="152" text-anchor="middle" class="co">Seton Hall</text>
+<text x="70.0" y="170" text-anchor="middle" class="ro">BS CS + Math</text>
+<circle cx="176.875" cy="110" r="15" fill="#161b22" stroke="#30363d" stroke-width="3"><set attributeName="stroke" to="#238636" begin="0.85s" fill="freeze"/><set attributeName="fill" to="#238636" begin="0.85s" fill="freeze"/></circle>
+<text x="176.875" y="115" text-anchor="middle" fill="#fff" font-size="14" opacity="0">✓<set attributeName="opacity" to="1" begin="0.85s" fill="freeze"/></text>
+<text x="176.875" y="80" text-anchor="middle" class="yr">2019</text>
+<text x="176.875" y="152" text-anchor="middle" class="co">Clarivate</text>
+<text x="176.875" y="170" text-anchor="middle" class="ro">SWE → DevOps</text>
+<circle cx="283.75" cy="110" r="15" fill="#161b22" stroke="#30363d" stroke-width="3"><set attributeName="stroke" to="#238636" begin="1.40s" fill="freeze"/><set attributeName="fill" to="#238636" begin="1.40s" fill="freeze"/></circle>
+<text x="283.75" y="115" text-anchor="middle" fill="#fff" font-size="14" opacity="0">✓<set attributeName="opacity" to="1" begin="1.40s" fill="freeze"/></text>
+<text x="283.75" y="80" text-anchor="middle" class="yr">2022</text>
+<text x="283.75" y="152" text-anchor="middle" class="co">Farmers</text>
+<text x="283.75" y="170" text-anchor="middle" class="ro">DevOps · ROSA</text>
+<circle cx="390.625" cy="110" r="15" fill="#161b22" stroke="#30363d" stroke-width="3"><set attributeName="stroke" to="#238636" begin="1.95s" fill="freeze"/><set attributeName="fill" to="#238636" begin="1.95s" fill="freeze"/></circle>
+<text x="390.625" y="115" text-anchor="middle" fill="#fff" font-size="14" opacity="0">✓<set attributeName="opacity" to="1" begin="1.95s" fill="freeze"/></text>
+<text x="390.625" y="80" text-anchor="middle" class="yr">2022</text>
+<text x="390.625" y="152" text-anchor="middle" class="co">Home Depot</text>
+<text x="390.625" y="170" text-anchor="middle" class="ro">SRE II</text>
+<circle cx="497.5" cy="110" r="15" fill="#161b22" stroke="#30363d" stroke-width="3"><set attributeName="stroke" to="#238636" begin="2.50s" fill="freeze"/><set attributeName="fill" to="#238636" begin="2.50s" fill="freeze"/></circle>
+<text x="497.5" y="115" text-anchor="middle" fill="#fff" font-size="14" opacity="0">✓<set attributeName="opacity" to="1" begin="2.50s" fill="freeze"/></text>
+<text x="497.5" y="80" text-anchor="middle" class="yr">2023</text>
+<text x="497.5" y="152" text-anchor="middle" class="co">State Street</text>
+<text x="497.5" y="170" text-anchor="middle" class="ro">Platform Eng</text>
+<circle cx="604.375" cy="110" r="15" fill="#161b22" stroke="#30363d" stroke-width="3"><set attributeName="stroke" to="#238636" begin="3.05s" fill="freeze"/><set attributeName="fill" to="#238636" begin="3.05s" fill="freeze"/></circle>
+<text x="604.375" y="115" text-anchor="middle" fill="#fff" font-size="14" opacity="0">✓<set attributeName="opacity" to="1" begin="3.05s" fill="freeze"/></text>
+<text x="604.375" y="80" text-anchor="middle" class="yr">2023</text>
+<text x="604.375" y="152" text-anchor="middle" class="co">PwC</text>
+<text x="604.375" y="170" text-anchor="middle" class="ro">DevOps</text>
+<circle cx="711.25" cy="110" r="15" fill="#161b22" stroke="#30363d" stroke-width="3"><set attributeName="stroke" to="#238636" begin="3.60s" fill="freeze"/><set attributeName="fill" to="#238636" begin="3.60s" fill="freeze"/></circle>
+<text x="711.25" y="115" text-anchor="middle" fill="#fff" font-size="14" opacity="0">✓<set attributeName="opacity" to="1" begin="3.60s" fill="freeze"/></text>
+<text x="711.25" y="80" text-anchor="middle" class="yr">2023</text>
+<text x="711.25" y="152" text-anchor="middle" class="co">Bank of</text>
+<text x="711.25" y="168" text-anchor="middle" class="co">America</text>
+<text x="711.25" y="186" text-anchor="middle" class="ro">DevOps</text>
+<circle cx="818.125" cy="110" r="15" fill="#161b22" stroke="#30363d" stroke-width="3"><set attributeName="stroke" to="#238636" begin="4.15s" fill="freeze"/><set attributeName="fill" to="#238636" begin="4.15s" fill="freeze"/></circle>
+<text x="818.125" y="115" text-anchor="middle" fill="#fff" font-size="14" opacity="0">✓<set attributeName="opacity" to="1" begin="4.15s" fill="freeze"/></text>
+<text x="818.125" y="80" text-anchor="middle" class="yr">2025</text>
+<text x="818.125" y="152" text-anchor="middle" class="co">Goldman</text>
+<text x="818.125" y="168" text-anchor="middle" class="co">Sachs</text>
+<text x="818.125" y="186" text-anchor="middle" class="ro">Sr. DevOps</text>
+<circle cx="925.0" cy="110" r="15" fill="#3fb950" class="ring" opacity="0"/>
+<circle cx="925.0" cy="110" r="15" fill="#161b22" stroke="#30363d" stroke-width="3"><set attributeName="stroke" to="#3fb950" begin="4.70s" fill="freeze"/><set attributeName="fill" to="#0f2e1a" begin="4.70s" fill="freeze"/></circle>
+<text x="925.0" y="115" text-anchor="middle" fill="#fff" font-size="12" opacity="0">▶<set attributeName="opacity" to="1" begin="4.70s" fill="freeze"/></text>
+<text x="925.0" y="80" text-anchor="middle" class="yr">now</text>
+<text x="925.0" y="152" text-anchor="middle" class="co">Bank of</text>
+<text x="925.0" y="168" text-anchor="middle" class="co">America</text>
+<text x="925.0" y="186" text-anchor="middle" class="ro">Sr. DevOps / SRE</text>
+<circle r="5" fill="#79c0ff"><animateMotion path="M70,110 L925,110" dur="4s" begin="4.95s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="4.95s" repeatCount="indefinite"/></circle>
+</svg>
